@@ -27,7 +27,7 @@ Não há necessidade de instalação, todo o projeto foi elaborado utilizando o 
 
 Quanto às versões, utilizei as já instaladas no Google Colaboratory
 ## Relatórios - EDA e Análises Estatísticas, Códigos de modelagem e Entrega de arquivo final (predicted.csv)
-Os relatórios e todos os códigos utilizados estão dentro desse notebook: [LH_CD_Alvaro_Martins_Alves.ipynb](https://github.com/AlvaroMAlves/testrepo/blob/main/LH_CD_Alvaro_Martins_Alves_ipynb.ipynb).
+Os relatórios e todos os códigos utilizados estão dentro desse notebook: [LH_CD_Alvaro_Martins_Alves.ipynb](https://github.com/AlvaroMAlves/LH_CD_Alvaro_Martins_Alves/blob/main/LH_CD_Alvaro_Martins_Alves.ipynb).
 
 O arquivo *predicted.csv* está no repositório.
 
