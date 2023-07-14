@@ -31,3 +31,6 @@ Os relatórios e todos os códigos utilizados estão dentro desse notebook: [LH_
 
 O arquivo *predicted.csv* está no repositório.
 
+
+## Observação
+Ao utilizar o modelo final no aqruivo *cars_test.csv*, tive de retirar e adicionar algumas colunas, já que utilizei a marca e a cor como variáveis de predição, e nem todas estavam presentes em ambos os arquivos.
