@@ -26,5 +26,7 @@ Não há necessidade de instalação, todo o projeto foi elaborado utilizando o 
 - r2_score: avaliação de modelos de regressão
 
 Quanto às versões, utilizei as já instaladas no Google Colaboratory
-## Relatórios - EDA e Análises Estatísticas 
-Os relatórios estão no repositório, dentro do arquivo 
+## Relatórios - EDA e Análises Estatísticas, Códigos de modelagem e Entrega de arquivo final (predicted.csv)
+Os relatórios e todos os códigos utilizados estão dentro desse notebook: [LH_CD_Alvaro_Martins_Alves.ipynb](https://github.com/AlvaroMAlves/testrepo/blob/main/LH_CD_Alvaro_Martins_Alves_ipynb.ipynb).
+O arquivo [*predicted.csv*] está no repositório
+
